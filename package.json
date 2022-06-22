@@ -1,0 +1,23 @@
+{
+  "name": "discord-vote-system",
+  "version": "1.0.0",
+  "description": "A discord voting bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rm20killer/Discord-vote-system.git"
+  },
+  "author": "RM20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rm20killer/Discord-vote-system/issues"
+  },
+  "homepage": "https://github.com/rm20killer/Discord-vote-system#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord.js": "^13.8.0"
+  }
+}
